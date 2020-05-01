@@ -37,7 +37,9 @@ SECRET_KEY = 'Ub8e3cf75739079f25a50f82b2cbd4c63'
 # 必須放上自己的Channel Access Token
 LINE_CHANNEL_ACCESS_TOKEN ='Ju1afbi7lxmByXQc+P1SfRAigS8D0dVmA7YJWIFjzwvnf/bYLzoJnMyjPwR/G6MgRqpoQ/PrBMcK/SrRmmwWMnqasEk7FqJh6ex97ld4o+E3PB+jWjJX4Ph9e8W0ILi6Oct1kxeDZ6+2rxiUakUPsgdB04t89/1O/w1cDnyilFU='
 # 必須放上自己的Channel Secret
-LINE_CHANNEL_SECRET='9a293d13048b333f9b1fd928a99d7bc1'
+LINE_CHANNEL_SECRET='9a293d13048b333f9b1fd928a99d7bc1
+
+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 ALLOWED_HOSTS = ['*']
